@@ -1,12 +1,9 @@
-## Hi there 👋
+# Superstorely
 
-<!--
+Superstorely is for e-commerce businesses that care about the planet. We're not here to overcomplicate things—just a simple, effective way to build an online store without the unnecessary carbon load.
 
-**Here are some ideas to get you started:**
+Forget those heavy, inefficient websites that drain energy and frustrate users with slow performance. Superstorely keeps things light, fast, and green—because the planet doesn’t need another website weighing it down.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+Curious? Head over to [Superstorely](https://superstorely.com). 🌳
